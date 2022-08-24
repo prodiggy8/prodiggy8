@@ -1,5 +1,3 @@
-/*[![Header](https://raw.githubusercontent.com/prodiggy8/prodiggy8/main/header.jpg "Header")](https://github.com/prodiggy8)*/
-
 ### Hey! 👋
 
 <h3 align="left">Languages and Tools:</h3>
